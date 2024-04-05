@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">App Daftar Tempat</string>
+
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="by">By :</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jaenal_arifin">Jaenal Arifin</string>
+    <string name="jaenalarifin589_gmail_com">jaenalarifin589@gmail.com</string>
+    <string name="textview">TextView</string>
+    <string name="data_nama" />
+
+    <string-array name="data_negara">
+        <item>Afrika </item>
+        <item>Brazil </item>
+        <item>Inggris </item>
+        <item>Irlandia</item>
+        <item>Kanada</item>
+        <item>Meksiko</item>
+        <item>Mozambik</item>
+        <item>Jepang</item>
+        <item>Sri Lanka</item>
+        <item>Yordania</item>
+    </string-array>
+
+    <string-array name="data_nama">
+        <item>Taman Nasional Danau Plitvice</item>
+        <item>Rio De jeniro</item>
+        <item>Pontcysyllte Aqueduct and Canal</item>
+        <item>Sceilg Mhichil</item>
+        <item>Taman Nasional Pegunungan Rocky</item>
+        <item>Angkor Wat di Kamboja, serta Pusat Bersejarah Oaxaca dan Monte Alban
+
+</item>
+        <item>Pulau Mozambik</item>
+        <item>Kyoto</item>
+        <item>Sigiriya</item>
+        <item>Petra</item>
+
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Di posisi keempat, ada Taman Nasional Danau Plitvice di Kroasia dan Taman Maloti-Drakensberg di Afrika Selatan. Danau Plitvice sendiri merupakan salah satu Situs Warisan Dunia UNESCO di Kroasia yang menjadi bagian dari Nacionalni Park Plitvicka Jezera atau  Taman Nasional Danau Plitvice.Taman Nasional Danau Plitvice adalah taman nasional tertua di Eropa Tenggara, sekaligus taman nasional terbesar di Kroasia. Plitvice terkenal karena pemandangannya yang menakjubkan, serta airnya yang hijau kebiruan.
+.</item>
+        <item>Terlepas dari itu, kota cantik ini juga memiliki kawasan hutan terbesar di dunia, yakni Tijuca National Park, yang mencakup dalam pengaturan kota ini. Beberapa lokasi wisata yang menarik di sini juga telah diakui UNESCO sebagai faktor pendukung untuk menjadikan kota sebagai situs warisan dunia. Di antaranya seperti Pantai Copacabana, Gunung Sugar Loaf, dan Monumen Kristus Penebus di atas Gunung Corcovado.
+
+.</item>
+        <item>Lantas, apa yang membuat akuaduk ini menjadi unik dan memiliki daya tarik tersendiri? Ternyata, situs yang dibangun dari abad ke-18 ini merupakan akuaduk dan kanal tertinggi di dunia dan merupakan mahakarya insinyur jenius, Thomas Telford.Thomas sendiri terkenal karena proyek-proyek teknik sipil lainnya di Inggris Raya, seperti Menai Bridge hingga Kanal Kaledonia yang menghubungkan Samudera Atlantik dan Laut Utara.
+.</item>
+        <item>Skellig Michael menjadi terkenal, karena ada sebuah biara yang dibangun pada abad ke-6. Biara tersebut terletak di atas puncak tebing. Untuk mencapai biara, para pengunjung harus melalui tangga batu yang terjal.Namun, kita tidak bisa sembarangan mengunjungi tempat ini. Skellig Michael dianggap sebagai tempat bersejarah yang penting, sehingga jumlah wisatawannya dibatasi. Jadi, kalau mau ke sini, harus pesan dari jauh-jauh hari, ya!
+.</item>
+        <item>Taman Nasional Pegunungan Rocky di Kanada telah dinyatakan sebagai Situs Warisan Dunia UNESCO pada 1984. Taman nasional ini terkenal akan lanskap gunungnya yang terdiri atas puncak gunung, gletser, danau, air terjun, ngarai, gua-gua kapur, hingga  beberapa fosil yang telah ditemukan di kawasan ini.Taman Nasional Pegunungan Rocky terdiri dari beberapa taman nasional yang berdekatan. Di antaranya Taman Nasional Banff, Taman Nasional Jasper, Taman Nasional Kootenay, dan Taman Nasional Yoho.
+.</item>
+        <item>Di posisi ke-7 ada Angkor Wat di Kamboja, Pusat Bersejarah Oaxaca, dan Situs Arkeologi Monte Alban di Meksiko. Angkor Wat sendiri merupakan sebuah situs candi terbesar di dunia, karena menempati lahan seluas 162,6 hektare. Situs ini dibangun pada awal abad ke-12 sebagai candi kenegaraan oleh Raja Suryawarman II di Yasodarapura.Hingga saat ini, Angkor Wat adalah satu-satunya bangunan yang masih difungsikan sebagai pusat kegiatan religius sejak didirikan. Saking ikoniknya, candi ini sudah menjadi lambang negara Kamboja.
+.</item>
+        <item>Di The Forest , pemain mengontrol Eric LeBlanc dan harus bertahan hidup di semenanjung hutan dan mencari putranya yang hilang, Timmy, setelah kecelakaan pesawat yang menghancurkan. Pemain harus bertahan hidup dengan menciptakan tempat berlindung, senjata, dan alat bertahan hidup lainnya. Menghuni semenanjung, bersama dengan berbagai makhluk hutan, adalah suku mutan kanibal , yang tinggal di desa-desa di permukaan dan di gua-gua yang dalam di bawah semenanjung. Meskipun mereka tidak selalu memusuhi pemainnya, perilaku mereka biasanya agresif, terutama pada malam hari.</item>
+        <item>Pulau Mozambik atau Ilha de Moçambique membentang di lepas utara Mozambik, antara Selat Mozambik dan Teluk Mossuril. Pulau ini masih dalam bagian Provinsi Nampula. Sebelum 1898, pulau tersebut menjadi ibu kota kolonial Afrika Timur Portugis.Dengan kekayaan sejarahnya dan pantai berpasirnya yang cantik, Pulau Mozambik menjadi situs warisan dunia UNESCO dan sekarang jadi salah satu tempat wisata dengan pertumbuhan tercepat di Mozambik. Pulau cantik ini kini memiliki penduduk permanen sekitar 14.000 orang
+.</item>
+        <item>Sebelum Tokyo, Kyoto dulunya pernah menjadi ibu kota Jepang sejak 794 hingga pertengahan abad ke-19. Itulah mengapa, selain terkenal dengan lanskap kota yang memanjakan mata, Kyoto juga memiliki banyak bangunan yang memiliki nilai sejarah tinggi.Hingga saat ini, terdapat 17 tempat di Kyoto yang sudah menjadi Situs Warisan Dunia UNESCO. Semua properti tersebut tersebar di Kyoto, Uji, dan Otsu di Shiga. Salah satu yang paling terkenal adalah Kuil Shinto Shimogamo-jinja dan Wihara Buddha Toji
+.</item>
+        <item>Saat kamu liburan ke Sri Lanka, wajib banget berkunjung ke Sigiriya yang kerap disebut sebagai sebagai keajaiban dunia ke-8. Sigiriya merupakan sebuah benteng dan istana batu kuno yang terletak di distrik Matale, Sri Lanka.Selain populer karena arsitektur bangunan kunonya, Sigiriya juga terkenal dengan lukisan kunonya. Sebagai informasi, Sigiriya dibangun pada masa pemerintahan Raja Kassapa I, sekitar tahun 477-495
+.</item>
+        <item>Petra merupakan sebuah kota kuno di Yordania yang berasal dari abad ke-4 SM. Kota ini mendapat julukan sebagai Kota Mawar, karena warna material bebatuannya berwarna merah muda.Situs bersejarah ini disebut sangat berharga bagi para sejarawan dan arkeolog, karena bebatuannya yang indah juga sistem perairan yang diberlakukan begitu inovatif dan modern
+
+
+.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/afrika</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/inggris</item>
+        <item>@drawable/irlandia</item>
+        <item>@drawable/kanada</item>
+        <item>@drawable/meksiko</item>
+        <item>@drawable/mozambik</item>
+        <item>@drawable/jepang</item>
+        <item>@drawable/sri_lanka</item>
+        <item>@drawable/yordania</item>
+    </integer-array>
+</resources>
